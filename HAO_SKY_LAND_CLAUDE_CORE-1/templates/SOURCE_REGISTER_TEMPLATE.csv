@@ -1,0 +1,2 @@
+record_id,project,topic,claim_or_field,value,unit,source_title,source_url_or_file,source_type,published_date,received_date,checked_date,effective_from,effective_until,status,checked_by,conflict_notes,usage_notes
+SRC-0001,[PROJECT],[TOPIC],[FIELD],[VALUE],[UNIT],[SOURCE TITLE],[URL OR FILE],[OFFICIAL/USER/OTHER],[YYYY-MM-DD],[YYYY-MM-DD],[YYYY-MM-DD],[YYYY-MM-DD],[YYYY-MM-DD],USER-PROVIDED,[NAME],,[NOTES]
